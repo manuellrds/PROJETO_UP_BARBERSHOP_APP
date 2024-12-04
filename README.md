@@ -206,6 +206,11 @@ Este projeto utiliza as seguintes bibliotecas e ferramentas Python. Certifique-s
 - **POST** `/precos` - Adiciona um preço.  
 - **PUT** `/precos/{id}` - Atualiza um preço.  
 - **DELETE** `/precos/{id}` - Exclui um preço.
+----------
+UML
+ <br>
+  <img src="https://github.com/JoaoGiannattasio/MapsBarber/blob/main/UML.png" alt="Barbershop Logo" width="200">
+  <br>
 
 
 
