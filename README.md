@@ -209,7 +209,7 @@ Este projeto utiliza as seguintes bibliotecas e ferramentas Python. Certifique-s
 ----------
 UML
  <br>
-  <img src="https://github.com/manuellrds/PROJETO_UP_BARBERSHOP_APP/blob/main/UML.png" alt="Barbershop Logo" width="200">
+  <img src="https://github.com/manuellrds/PROJETO_UP_BARBERSHOP_APP/blob/main/UML.png" alt="UML" width="600">
   <br>
 
 
