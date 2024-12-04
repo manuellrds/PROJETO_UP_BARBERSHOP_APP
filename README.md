@@ -17,10 +17,10 @@ Essa aplicação, juntamente com o backend, oferece uma interface móvel interat
 
 
 - **Personas:**
-Telas do usuário ADMINISTRADOR: realiza o cadastro de clientes, serviços e horários disponíveis, além de gerenciar agendamentos. Alimenta o aplicativo com informações sobre os serviços oferecidos e organiza o fluxo da barbearia.
-Tela do usuário CLIENTE: consulta os serviços disponíveis, faz agendamentos e verifica detalhes sobre seus horários e atendimentos.
+- **Telas do usuário ADMINISTRADOR:** realiza o cadastro de clientes, serviços e horários disponíveis, além de gerenciar agendamentos. Alimenta o aplicativo com informações sobre os serviços oferecidos e organiza o fluxo da barbearia.
+- **Tela do usuário CLIENTE:** consulta os serviços disponíveis, faz agendamentos e verifica detalhes sobre seus horários e atendimentos.
 
---
+---
 
 
 Modelo de Negócio
