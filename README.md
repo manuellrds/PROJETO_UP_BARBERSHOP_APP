@@ -27,10 +27,15 @@
 
 ## Tecnologias Utilizadas
 
-- **Node.js**
 - **Express**
 - **Swagger** para documentação da API
 - **Servidor Flask** Servidor python
+- **Frontend: React Native com Expo.
+- **Backend: Node.js com Express.
+- **Banco de Dados: MySQL.
+- **Outras Dependências:
+- **Axios (para consumo de APIs).
+- **React Navigation (para navegação no app).
 
 ---
 
