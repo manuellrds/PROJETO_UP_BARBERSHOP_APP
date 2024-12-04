@@ -38,7 +38,7 @@ Aplicativo de gestão e interação entre a barbearia e os clientes.
 - ** UML está dentro da documentação/Ao final deste README, está disponível o UML**
 
 ##MANUAL DO USUÁRIO: https://manuellrds.github.io/manueldeusuario/Manual_de_usuario.pdf
-- ** Para econtrar o manual de usuário no app, fica esse caminho app\src\pages\login\index.tsx, linha 36**
+- ** Para encontrar o manual de usuário no app, fica esse caminho app\src\pages\login\index.tsx, linha 36**
 
 ## Recursos
 
