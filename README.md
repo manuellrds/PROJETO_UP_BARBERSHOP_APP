@@ -154,7 +154,7 @@ Este projeto utiliza as seguintes bibliotecas e ferramentas Python. Certifique-s
 
 ### Como Instalar as Dependências
 
-10. Para instalar todas as bibliotecas listadas, você pode usar o seguinte comando:
+11. Para instalar todas as bibliotecas listadas, você pode usar o seguinte comando:
     ```bash
     pip install -r requirements.txt
 
