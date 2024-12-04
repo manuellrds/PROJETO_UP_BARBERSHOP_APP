@@ -8,21 +8,32 @@
 
 <h4 align="center">API para gestão de agendamentos, clientes, serviços e feedbacks em uma barbearia.</h4>
 
----
 ## Objetivos
 O que essa aplicação faz e quem usa essa solução?
 Essa aplicação, juntamente com o backend, oferece uma interface móvel interativa para gerenciar os serviços da barbearia. O administrador pode realizar o cadastro de serviços, clientes, barbeiros e agendamentos, além de acompanhar o fluxo de atividades. Os clientes podem acessar o aplicativo para visualizar os serviços disponíveis, agendar horários e acompanhar seus atendimentos.
+
+
 ---
+
+
 Personas
 Telas do usuário ADMINISTRADOR: realiza o cadastro de clientes, serviços e horários disponíveis, além de gerenciar agendamentos. Alimenta o aplicativo com informações sobre os serviços oferecidos e organiza o fluxo da barbearia.
 Tela do usuário CLIENTE: consulta os serviços disponíveis, faz agendamentos e verifica detalhes sobre seus horários e atendimentos.
+
 --
+
+
 Modelo de Negócio
 Sem fins lucrativos
+
 ---
+
 Modelo de Domínio
 Aplicativo de gestão e interação entre a barbearia e os clientes.
+
 ---
+
+
 ## Documentação BarberShop: https://manuellrds.github.io/docprjetoBARBER/
 - ** UML está dentro da documentação/Ao final deste README, está disponível o UML**
 
